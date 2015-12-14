@@ -57,7 +57,7 @@ Pod::Spec.new do |s|
   #  Specify a social_media_url where others can refer to, for example a twitter
   #  profile URL.
   #
-  
+
   s.author             = { "Mazyad Alabduljaleel" => "mazjaleel@gmail.com" }
   s.social_media_url   = "http://twitter.com/Mazyod"
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/yikyakjon/TLYShyNavBar.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/yikyakjon/TLYShyNavBar.git", :branch => "yikyak_1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
